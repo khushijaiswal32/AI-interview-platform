@@ -6,17 +6,18 @@ Full Stack Interview Platform
 A web application to practice mock interviews with AI-based feedback and track performance over time.
 
 Features
-Secure authentication system
-Mock interview simulation
-AI-based feedback on answers
-Performance tracking dashboard
+
+1.Secure authentication system
+2.Mock interview simulation
+3.AI-based feedback on answers
+4.Performance tracking dashboard
 
 Tech Stack
 
-Next.js
-Tailwind CSS
-Supabase
-Prisma
+1.Next.js
+2.Tailwind CSS
+3.Supabase
+4.Prisma
 
 About
 
