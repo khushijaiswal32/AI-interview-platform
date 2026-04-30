@@ -27,6 +27,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <ClerkProvider
+    publishableKey={process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY}
       appearance={{
         theme: dark,
       }}
@@ -45,7 +46,7 @@ export default function RootLayout({ children }) {
             <Toaster richColors />
 
             <footer className="relative z-10 border-t border-white/7 py-12  mx-auto px-6 flex flex-wrap items-center justify-center text-stone-400">
-              Made with ❤️ by RoadsideCoder
+              Made with ❤️ Coder
             </footer>
           </ThemeProvider>
         </body>
