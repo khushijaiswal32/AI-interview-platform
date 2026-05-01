@@ -1,23 +1,31 @@
+# 🚀 Full Stack AI Interview Platform
 
-Full Stack Interview Platform
+🔗 **Live Demo:**  https://ai-interview-platform-five-rose.vercel.app/
 
-🔗 Live Demo: https://your-app.vercel.app
+An AI-powered web application designed to help users practice mock interviews with real-time feedback and performance tracking.
 
-A web application to practice mock interviews with AI-based feedback and track performance over time.
+---
 
-Features
+## ✨ Features
 
-1.Secure authentication system
-2.Mock interview simulation
-3.AI-based feedback on answers
-4.Performance tracking dashboard
+- 🔐 Secure Authentication System  
+- 🎤 Mock Interview Simulation  
+- 🤖 AI-based Real-Time Feedback  
+- 📊 Performance Tracking Dashboard  
+- 🧠 Personalized Improvement Suggestions  
 
-Tech Stack
+---
 
-1.Next.js
-2.Tailwind CSS
-3.Supabase
-4.Prisma
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **AI Integration:** OpenAI / GenAI APIs  
+- **Deployment:** Vercel / Render  
+
+---
+
 
 About
 
